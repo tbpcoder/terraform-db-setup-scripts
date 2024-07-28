@@ -1,0 +1,9 @@
+ami="ami-03f4878755434977f"
+instance_type="t3.xlarge"
+key_pair_name="your_pem_file"
+subnet_id="your_subnet_id"
+storage_size=50
+storage_type="gp3"
+instance_count=1
+database_sg_name="security_group_created"
+vpc_id="your_vpc_id"
